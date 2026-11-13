@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NikolasPC\\Desktop\\New folder\\Faks\\softversko inzinjerstvo\\Kuglasko Prvenstvo poslato na mejl\\Kuglasko Prvenstvo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17808F45-B299-4EF2-8BF8-549AB8727EEF}|KuglaskoPrvenstvo.csproj|c:\\users\\nikolaspc\\desktop\\new folder\\faks\\softversko inzinjerstvo\\kuglasko prvenstvo poslato na mejl\\kuglasko prvenstvo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17808F45-B299-4EF2-8BF8-549AB8727EEF}|KuglaskoPrvenstvo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2B67F8-541C-4089-9707-CFFA23673446}|..\\Unittestigrac\\UnitTestIgrac.csproj|c:\\users\\nikolaspc\\desktop\\new folder\\faks\\softversko inzinjerstvo\\kuglasko prvenstvo poslato na mejl\\unittestigrac\\unittestigrac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NikolasPC\\Desktop\\New folder\\Faks\\softversko inzinjerstvo\\Kuglasko Prvenstvo poslato na mejl\\Kuglasko Prvenstvo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\NikolasPC\\Desktop\\New folder\\Faks\\softversko inzinjerstvo\\Kuglasko Prvenstvo poslato na mejl\\Kuglasko Prvenstvo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T08:20:17.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTestIgrac.cs",
+              "DocumentMoniker": "C:\\Users\\NikolasPC\\Desktop\\New folder\\Faks\\softversko inzinjerstvo\\Kuglasko Prvenstvo poslato na mejl\\Unittestigrac\\UnitTestIgrac.cs",
+              "RelativeDocumentMoniker": "..\\Unittestigrac\\UnitTestIgrac.cs",
+              "ToolTip": "C:\\Users\\NikolasPC\\Desktop\\New folder\\Faks\\softversko inzinjerstvo\\Kuglasko Prvenstvo poslato na mejl\\Unittestigrac\\UnitTestIgrac.cs",
+              "RelativeToolTip": "..\\Unittestigrac\\UnitTestIgrac.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T15:52:25.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

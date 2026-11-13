@@ -1,0 +1,284 @@
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.FormaZaIzmenu.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.Pocetna.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.Properties.Resources.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.TabelarniPrikazIgracaForm.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.UnosIgracaForm.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.BarCodes.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Cryptography.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Shared.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.System.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Buffers.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Memory.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.BarCodes.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.BarCodes.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Cryptography.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Cryptography.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Shared.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Shared.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.System.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.System.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Buffers.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Memory.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\bin\Debug\System.ValueTuple.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\novo kuglasko prvenstvo\obj\Debug\Kuglasko.DC941E79.Up2Date
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Buffers.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Memory.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Buffers.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Memory.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.FormaZaIzmenu.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Pocetna.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Properties.Resources.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.TabelarniPrikazIgracaForm.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.UnosIgracaForm.resources
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.GenerateResource.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\Kuglasko.DC941E79.Up2Date
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Buffers.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Memory.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Buffers.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Memory.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.AssemblyReference.cache
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.FormaZaIzmenu.resources
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Pocetna.resources
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Properties.Resources.resources
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.TabelarniPrikazIgracaForm.resources
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.UnosIgracaForm.resources
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.GenerateResource.cache
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\Kuglasko.DC941E79.Up2Date
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.exe
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Buffers.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Memory.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.BarCodes.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Charting.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Cryptography.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Quality.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Shared.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.Snippets.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.System.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\PdfSharp.WPFonts.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Buffers.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Memory.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\bin\Debug\System.ValueTuple.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.AssemblyReference.cache
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.FormaZaIzmenu.resources
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Pocetna.resources
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.Properties.Resources.resources
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.TabelarniPrikazIgracaForm.resources
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.UnosIgracaForm.resources
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.GenerateResource.cache
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.csproj.CoreCompileInputs.cache
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\Kuglasko.DC941E79.Up2Date
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.exe
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Kuglasko Prvenstvo\obj\Debug\KuglaskoPrvenstvo.pdb

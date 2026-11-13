@@ -1,0 +1,79 @@
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\Igraci.xml
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\UnitTestIgrac.pdb
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nikola\Desktop\New folder (2)\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nikola\Desktop\New folder (2)\obj\Debug\UnitTestIgrac.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\New folder (2)\obj\Debug\UnitTestIgrac.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\New folder (2)\obj\Debug\UnitTest.41B8EF97.Up2Date
+C:\Users\Nikola\Desktop\New folder (2)\obj\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\New folder (2)\obj\Debug\UnitTestIgrac.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Igraci.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.pdb
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTest.41B8EF97.Up2Date
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\NovoKuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.pdb
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Igraci.xml
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.pdb
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.AssemblyReference.cache
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTest.41B8EF97.Up2Date
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.dll
+C:\Users\Nikola\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Igraci.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\UnitTestIgrac.pdb
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.AssemblyReference.cache
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.CoreCompileInputs.cache
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTest.41B8EF97.Up2Date
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.dll
+C:\Users\NikolasPC\Desktop\KuglaskoPrvenstvo\Unittestigrac\obj\Debug\UnitTestIgrac.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Igraci.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\UnitTestIgrac.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\UnitTestIgrac.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\KuglaskoPrvenstvo.exe
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\KuglaskoPrvenstvo.pdb
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\KuglaskoPrvenstvo.exe.config
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.AssemblyReference.cache
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\obj\Debug\UnitTestIgrac.csproj.CoreCompileInputs.cache
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\obj\Debug\UnitTest.41B8EF97.Up2Date
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\obj\Debug\UnitTestIgrac.dll
+C:\Users\NikolasPC\Desktop\New folder\Faks\softversko inzinjerstvo\Kuglasko Prvenstvo poslato na mejl\Unittestigrac\obj\Debug\UnitTestIgrac.pdb
